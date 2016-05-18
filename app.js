@@ -1,4 +1,4 @@
-var appName = "ExpressJS Boilerplate";
+var appName = "Web Audio Test";
 var express = require('express');
 var app = express();
 var listeningPort = 5000; // port 5000 is required by Heroku
