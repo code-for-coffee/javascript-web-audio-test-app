@@ -1,0 +1,22 @@
+{
+  "name": "ExpressBoilerplate",
+  "version": "0.1.0",
+  "description": "Sample Express.js Boilerplate to get your project started",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-for-coffee/ExpressBoilerplate.git"
+  },
+  "author": "https://github.com/code-for-coffee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-for-coffee/ExpressBoilerplate/issues"
+  },
+  "homepage": "https://github.com/code-for-coffee/ExpressBoilerplate",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
